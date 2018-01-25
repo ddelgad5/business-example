@@ -1,9 +1,14 @@
 /* Perfect fourth scale on 18px
 http://www.modularscale.com/?18&px&1.333 */
 
-html {
+/* Base Styles */
+html,a {
   font-family: 'Quattrocento', serif;
+  font-size: 18px; /* 18 / 16 = 1.125em */
+  line-height: 22px; /* 22 / 18 = 1.22222em */
 }
 h1 {
   font-family: 'Oswald', sans-serif;
+  font-size: 42.635px;
+  line-height: 44px;
 }
