@@ -12,3 +12,23 @@ h1 {
   font-size: 42.635px;
   line-height: 44px;
 }
+h2 {
+  font-size: 31.984px;
+  line-height: 33px;
+}
+h3 {
+  font-size: 23.994px;
+  line-height: 27.5px;
+}
+ul, li {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+/* Layout Styles */
+
+/* Module Styles */
+
+/* State Styles */
+
+/* Theme Styles */
